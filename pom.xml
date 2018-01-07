@@ -20,8 +20,6 @@
     </dependency>
   </dependencies>
   <build>
-    <plugins>
-      <plugin>
         <!-- Build an executable WAR -->
 <finalName>exec-war</finalName>
 		<plugins>
